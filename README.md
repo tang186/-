@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-![](http://39.101.74.167:8081//upload/show.gif)
+![](img/show.gif)
 
