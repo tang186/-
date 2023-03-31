@@ -15,5 +15,4 @@ npm run serve
 npm run build
 ```
 
-<iframe height=498 width=510 src="http://39.101.74.167:8081//upload/show.mp4">
-
+![][http://39.101.74.167:8081//upload/show.gif]
